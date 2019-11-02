@@ -23,4 +23,4 @@ func _ready():
        score = 40
    if get_parent().name == "Purple Tiles":
        sprite.set_texture(purple)
-       score = 50
+       score = 100
